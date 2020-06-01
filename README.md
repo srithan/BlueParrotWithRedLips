@@ -1,11 +1,11 @@
 # BlueParrotWithRedLips
 
-Name: Srithan Savela  
+**Name:** Srithan Savela  
 
-Discord Username: srithan  
+**Discord Username:** srithan  
 
-Basic Location: Hyderabad (City), Telangana (State), India (Country)  
+**Basic Location:** Hyderabad (City), Telangana (State), India (Country)  
 
-Your Programming Experience: Was into Front-End Web Development for a few years  
+**Programming Experience:** Was into Front-End Web Development for a few years  
 
-Goal: To kill LinkedIn 
+**Goal:** To kill LinkedIn 
